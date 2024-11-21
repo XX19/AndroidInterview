@@ -1,9 +1,4 @@
 # Awesome-Android-Interview
-A awesome  android expert interview questions and answers
-<div align="center">
-<img src="https://user-images.githubusercontent.com/30379002/46050218-6f81cc80-c0f8-11e8-9304-ac77597e0e49.jpg">
-</div>
-
 > 从几十份顶级面试仓库和300多篇高质量面经中总结出一份全面成体系化的Android高级面试题集。
 
 
@@ -26,12 +21,6 @@ A awesome  android expert interview questions and answers
 > 为了更好地分类学习，建议跳转到本项目对应的[Github地址](https://github.com/JsonChao/Awesome-Android-Interview)，欢迎Star、Fork、Watch~
 
 ## 2023 年最新 Android 高频面试题集合请扫码加入星球获取
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/17464480/227223150-0b614156-7cfd-4b85-9f51-ff84c321acf8.png" width=50%>
-</div>
-
-## Contents
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/17464480/227223150-0b614156-7cfd-4b85-9f51-ff84c321acf8.png" width=50%>
